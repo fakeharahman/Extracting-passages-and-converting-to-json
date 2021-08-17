@@ -1,0 +1,781 @@
+{{
+1 Medicine is of all the arts the most noble; but, owing to the ignorance of those who practice
+it, and of those who, inconsiderately, form a judgment of them, it is at present far behind
+all the other arts. Their mistake appears to me to arise principally from this, that in the
+cities there is no punishment connected with the practice of medicine (and with it alone)
+except disgrace, and that does not hurt those who are familiar with it. Such persons are
+like the figures which are introduced in tragedies, for as they have the shape, and dress,
+and personal appearance of an actor, but are not actors, so also physicians are many in
+title but very few in reality.
+2 Whoever is to acquire a competent knowledge of medicine, ought to be possessed of
+the following advantages: a natural disposition; instruction; a favorable position for the
+study; early tuition; love of labour; leisure. First of all, a natural talent is required; for,
+when Nature leads the way to what is most excellent, instruction in the art takes place,
+which the student must try to appropriate to himself by reflection, becoming an early pupil
+in a place well adapted for instruction. He must also bring to the task a love of labour
+and perseverance, so that the instruction taking root may bring forth proper and abundant
+fruits.
+3 Instruction in medicine is like the culture of the productions of the earth. For our
+natural disposition, is, as it were, the soil; the tenets of our teacher are, as it were, the seed;
+instruction in youth is like the planting of the seed in the ground at the proper season;
+the place where the instruction is communicated is like the food imparted to vegetables
+by the atmosphere; diligent study is like the cultivation of the fields; and it is time which
+imparts strength to all things and brings them to maturity.
+4 Having brought all these requisites to the study of medicine, and having acquired a true
+knowledge of it, we shall thus, in travelling through the cities, be esteemed physicians not
+only in name but in reality. But inexperience is a bad treasure, and a bad fund to those who
+possess it, whether in opinion or reality, being devoid of self-reliance and contentedness,
+and the nurse both of timidity and audacity.* For timidity betrays a want of powers, and
+audacity a lack of skill. They are, indeed, two things, knowledge and opinion, of which
+the one makes its possessor really to know, the other to be ignorant.
+5 Those things which are sacred, are to be imparted only to sacred persons; and it is
+not lawful to impart them to the profane until they have been initiated in the mysteries
+of the science.
+}}
+[[
+
+●15 Based on paragraph 1, which of the
+following best characterizes bad
+physicians?
+A. They are greedy.
+B. They are pretenders.
+C. They are difficult to contact.
+D. They are located only in the cities.
+ID:293634 A Common
+●16 According to paragraph 2, what must
+accompany the personal traits of a
+physician?
+A. a good education
+B. a supportive family
+C. approval from the gods
+D. popularity in the community
+ID:293635 C Common
+●17 If the author of the passage were to
+use a heading for each paragraph,
+which heading would fit best before
+paragraph 3?
+A. An Herbal Treatment
+B. Medicine and Gardening
+C. The Growth of a Physician
+D. Understand Agriculture First
+ID:293640 A Common
+●18 Read paragraph 5 in the box below.
+Those things which are sacred, are to
+be imparted only to sacred persons;
+and it is not lawful to impart them
+to the profane until they have been
+initiated in the mysteries of the
+science.
+Based on the paragraph, what is the
+relationship between the words “sacred”
+and “profane”?
+A. The two words are antonyms.
+B. The two words are synonyms.
+C. “Sacred” is the root word of
+“profane.”
+D. “Profane” is an outdated word
+for “sacred.”
+
+]]
+//10//
+\\2015\\
+{{
+ YOU WOULDN’T THINK something
+as unscientific as accident could have
+played much of a role in the life of Tim
+Berners-Lee, the brilliant British physicist
+and computer scientist who in 1991 invented
+the World Wide Web. He conceived it and
+still controls a lot of how it operates from
+his unimposing office at the Massachusetts
+Institute of Technology. In 1999, Time
+placed Berners-Lee on its list of the “100
+Persons of the Century.” No fewer than
+seven different universities have awarded
+him honorary degrees.
+2 But the great breakthrough engineered
+by this icon of cyberspace did occur, in
+part, by chance. “There was an element of
+serendipity,”1 says Arthur Molella, director
+of the Lemelson Center for the Study of
+Invention and Innovation at the Smithsonian’s
+National Museum of American History. “At
+first, he was just noodling around, trying to
+find a way to organize his research files. So
+he began to develop a tool just for his own
+personal use.”
+3 The “tool” was a software program
+that, as Berners-Lee puts it, was “really
+useful for keeping track of all the random
+associations one comes across in real life,
+and [which] brains are supposed to be
+so good at remembering—but sometimes
+mine wouldn’t.” He called it Enquire, and it
+worked so well, creating effective linkages
+between huge amounts of information,
+that it eventually became the basis for the
+revolution we now casually refer to as
+the Web. “It would be akin to a carpenter
+building a little cabinet for himself,”
+Molella says, “and suddenly discovering
+he could store the entire world inside the
+thing. There was quite a bit of luck in it.”
+4 The element of chance has helped
+produce many of the most important 
+innovations in modern life. Many are
+created by it; others become successful
+because of it, and some fail for the same
+reason. As Mark Twain, an inventor himself,
+once scribbled in his notebook: “Name the
+greatest of all the inventors. Accident.” If
+you don’t believe it, go into your kitchen
+and look around. There might be a Teflon
+pan on the stove, a microwave oven above it,
+Post-its sticking out of cookbooks, matches
+in a drawer; Coke, Popsicles and ketchup
+stashed in a refrigerator. Accident played a
+role in their invention.
+5 Happenstance2 works in many ways. One
+is the observed event: the “invention” is the
+way the mind seizes upon an inconspicuous
+occurrence. The best known of these is
+Alexander Fleming’s role in the discovery
+of penicillin. One day in 1928 some mold
+drifted through an open window in a London
+hospital and landed in Fleming’s petri dish,
+where he’d placed a culture of staphylococcus
+bacteria. What Fleming did next got him
+and two colleagues a Nobel Prize in 1945:
+he looked through the microscope. What
+he saw was the mold efficiently destroying
+the germs. Presto! The creation of penicillin
+began with that unlikely turn of events.
+6 But Robert Friedel, historian of
+technology at the University of Maryland,
+cautions that “serendipity is no accident.”
+What’s important about an unintended
+event, Friedel asserts, is the creative way
+it is used. As Louis Pasteur once said,
+“Chance favors only the prepared mind.”
+7 Any of us might happen to see a cat
+pull feathers through a birdcage; but when
+Eli Whitney saw that, he got the idea of
+how to comb cotton mechanically. Hence
+the cotton gin. “Some people are just
+more likely to pay attention when they see
+something,” says Rini Paiva of the National
+Inventors Hall of Fame in Akron, Ohio. “If
+you have a certain type of brain, you might
+see something weird and say, ‘Hey, what
+can I do with this?’”
+8 Take Percy Lebaron Spencer. A hero of
+World War II for his work in developing
+radar, Spencer obtained more than 120
+patents in his lifetime. One day shortly after
+the war, he was walking through his lab
+at the Raytheon Company in Cambridge,
+Massachusetts, when he stopped briefly
+by a magnetron—the tube that produces
+the high-frequency microwaves that power
+radar. “He was working on things like
+missile-defense systems,” Paiva says. “But
+just that second he got a strange feeling.
+He realized that a candy bar in his jacket
+pocket had melted.” Odd, Spencer thought.
+Immediately, he performed a makeshift
+experiment: he put some popcorn kernels in
+front of the magnetron. Soon, popcorn was
+popping all over the place. “There’s actually
+a drawing of a bag of popcorn in one of
+Spencer’s patents,” Paiva says. “Other
+people might just make a note or two in a
+lab notebook and let it go. But right away 
+Percy Spencer was thinking about what this
+could be used for—a microwave oven.”
+9 It’s not just scientists hanging around
+high-tech labs whom accident favors. Hans
+Lippershey, a 17th-century Dutch eyeglass
+maker, simply happened—so the story
+goes—to look through two lenses one
+day and notice that objects at a distance
+were greatly magnified. When he put the
+lenses in a tube, he created the world’s first
+telescope. John Walker was a pharmacist,
+not a scientist. One day in 1826 he was
+mixing potassium chlorate and antimony
+sulfide together with a stick, but the mixture
+stuck to the stick. When he tried to scrape
+the stuff off against the stone floor, it burst
+into flames. Walker quickly produced for
+sale the first friction matches, or, to use
+his catchy name, “sulphuretted peroxide
+strikables.”
+10 Inspiration can take a lot longer to strike
+than a match. Frank Epperson was an 11-yearold boy at the dawn of the 20th century
+when he accidentally left a mixture of soda
+powder and water out on the back porch one
+cold night. In it was the stick he’d used as
+a mixer. Next morning, Epperson found the
+soda water frozen around the stick. Nearly 20
+years passed before he realized that by adding
+some flavoring, he could concoct a frosty
+treat, and with that he began to manufacture
+what he called “Eppsicles.” Eventually the
+name changed, and he earned royalties on
+more than 60 million Popsicles. (That success
+inspired the creation of the Fudgsicle, the
+Creamsicle and the Dreamsicle.)
+11 Sometimes Lady Luck delivers the
+invention but not the fortune that should
+go with it. One day in 1839, a failed
+hardware salesman was tinkering at his
+boardinghouse in Woburn, Massachusetts.
+He’d been hauled off to debtor’s prison so
+often that he called it his “hotel.” Even
+there, he kept doing experiments, doggedly
+trying to make a useful material out of a
+substance from Brazil called rubber. People
+bought it for erasing—“rubbing” out
+mistakes. Because it became brittle in the
+cold and melted in high heat, that was about
+all it was good for. The amateur inventor
+tried mixing it with numerous chemicals all
+without success, until that day in Woburn
+when he blended rubber with sulfur—and
+happened to drop the mixture onto a hot
+stove. After he cleaned it up, he realized
+that the rubber had suddenly become more
+solid, yet was still flexible.
+12 Charles Goodyear had vulcanized
+rubber, a process that gives it useful
+properties, such as strength, elasticity and
+stability. (Today it is used in everything
+from automobile tires to golf balls.) But
+that practical discovery did little to help
+Goodyear himself. His many patents were
+regularly violated; when he died in 1860,
+he was more than $200,000 in debt.
+13 In one common scenario, inventors are
+hard at work trying to make one thing when
+accident intervenes to create something
+else. The first practical synthetic dye was
+“invented” when an 18-year-old student in London
+ was trying to synthesize an
+antimalarial drug; the material that led to
+throwaway tissues was first intended as a
+filter for gas masks.
+14 In the late 1960s, 3M Company
+researcher Spence Silver was trying to
+create a superglue but ended up with
+the opposite—a glue that wouldn’t dry,
+wouldn’t melt and hardly stuck to anything.
+It could just barely hold two pieces of paper
+together. What the devil could he use the
+stuff for? Silver never did come up with a
+good answer, but five years later a fellow
+employee, Art Fry, began using the glue on
+small scraps of paper, making bookmarks
+for his church hymnal. It took another eight
+years before “Post-it” sticky notepaper
+became an overnight sensation.
+}}
+[[
+●8 According to paragraphs 1–3, what was
+Berners-Lee doing when he conceived of
+the World Wide Web?
+A. building a cupboard
+B. brainstorming with friends
+C. attempting to get organized
+D. trying to make profitable goods
+ID:283648 A Common
+ ●9 In paragraph 4, what is the most likely
+reason the author says to “go into your
+kitchen and look around”?
+A. to convince his readers he is
+speaking the truth
+B. to suggest that some devices could
+be improved
+C. to point out that many new devices
+are related to cooking
+D. to provide readers with motivation to
+think of their own ideas
+ID:294564 C Common
+ ●10 According to the article, which of the
+following was most important to the
+invention of the cotton gin?
+A. religion
+B. medicine
+C. an animal
+D. the weather
+ID:283656 B Common
+ ●11 Which of the following would be the
+best heading for paragraph 7?
+A. How New Ideas Become
+Patented
+B. How the Mind Creates through
+Observation
+C. How Untried Methods Often Meet
+Resistance
+D. How History Was Influenced by
+Everyday Contraptions
+●12 According to the article, how was
+Charles Goodyear most different from
+other inventors in the article?
+A. He kept his discoveries hidden
+from colleagues.
+B. He did not understand the impact
+of his discoveries.
+C. He made discoveries that were
+important to the world.
+D. He did not achieve financial success
+through his discoveries.
+ID:283661 C Common
+ ●13 Which of the following sentences best
+supports the main idea of the article?
+A. “He conceived it and still controls
+a lot of how it operates from his
+unimposing office at the Massachusetts
+Institute of Technology.” (paragraph 1)
+B. “No fewer than seven different
+universities have awarded him
+honorary degrees.” (paragraph 1)
+C. “The creation of penicillin began
+with that unlikely turn of events.”
+(paragraph 5)
+D. “He’d been hauled off to debtor’s
+prison so often that he called it his
+‘hotel.’” (paragraph 11)
+ID:283663 D Common
+ ●14 How is the article mainly organized?
+A. in chronological order
+B. by order of importance
+C. by comparison and contrast
+D. through a series of examples
+ID:283665 C Common
+ ●15 What is the definition of scenario as it
+is used in paragraph 13?
+A. disaster
+B. sacrifice
+C. situation
+D. presentation 
+]]
+//8//
+\\2015\\
+{{
+1 When I was asked to write the foreword to The Freedom Writers Diary, I must say I
+was extremely honored and proud, but at the same time amazed by how many wonderful
+things can happen in such a short time.
+2 I met the students of Wilson High School in March 1996, when thanks to their
+dedication, effort and will, they invited my parents, Mirna (my best friend from Bosnia,
+who was living with me at the time) and myself to come to the city of Long Beach,
+California. When I met them, I was touched by their warmth and kindness. They were
+teenagers just like me, and like all young people all over the world, they have an amazing
+potential to grow into truly great people, leaders, ones who will inspire others.
+3 These students and their teacher, Erin Gruwell, chose to read Anne Frank: The Diary
+of a Young Girl, my own book, Zlata’s Diary: A Child’s Life in Sarajevo (and many
+other books), and were inspired to start writing their own diaries. They had organized
+themselves and chose to do something different, something memorable, something
+powerful and humane. They chose to rid themselves of doing things the easy way, the
+way they’ve always been done, and chose to write, to create, to fight stereotypes and
+live up to the name of true Freedom Writers. I am immensely proud and happy to have
+had a chance to meet them and to play some role in their “growth” as human beings.
+4 I started writing my own diary before the war in Bosnia because I wanted to have a
+place to record my childhood and create something that I could look back on and laugh,
+cry and reminisce.1 I wanted to see myself grow through my writing. Some of my older
+girlfriends had their own diaries, and having read the diaries of Anne Frank and Adrian
+Mole, I was absolutely certain that writing a diary was the right thing to do. I never 
+imagined that my diary would be published, and certainly didn’t expect it to become
+a war diary. I also never dreamed that my childhood would be cut short. These things
+seemed too impossible to think about, because it’s human nature to always believe that
+“bad” things happen to other people, not us. But when misfortune comes our way, we
+find ourselves surprised, confused, scared, angry and sad.
+5 When the Bosnian war started with all its horrors and disrupted my happy and
+carefree childhood, my diary became more than a place to record daily events. It became
+a friend, the paper that it was made of was ready and willing to accept anything and
+everything I had to say; it could handle my fear, my questions, my sadness. I discovered
+the beauty of writing—when one can pour oneself onto a great white emptiness and
+fill it with emotions and thoughts and leave them there forever. And I kept on writing
+during almost two years of war; it became a type of therapy for dealing with everything
+that was going on.
+6 I see a parallel between the Freedom Writers and myself because we’ve all been subjected
+to things in our surroundings that could have made us feel like victims. Life brings
+good things and bad things, it makes people sad and happy in their own homes, within
+their families, in school and on the street. Sometimes we suffer because of many things
+over which we have no control: the color of our skin, poverty, our religion, our family
+situation, war. It would be easy to become a victim of our circumstances and continue
+feeling sad, scared or angry; or instead, we could choose to deal with injustice humanely
+and break the chains of negative thoughts and energies, and not let ourselves sink into it.
+Writing about the things that happen to us allows us to look objectively at what’s going
+on around us and turn a negative experience into something positive and useful. This
+process requires a lot of work, effort and greatness, but it is possible, and the Freedom
+Writers have proved it—they’ve chosen a difficult, but powerful, path.
+7 After I left Bosnia, the war continued, and as we’ve recently seen, a similar thing
+happened in Kosovo. People have asked me what I think about this, and all I can say is
+that it makes me terribly sad. Now, almost all of the young former Yugoslavians know
+what a bomb sounds like, what a cellar is and what the absence of water, electricity or
+home feels like. And again, these children and young people had nothing to do with
+the situation they found themselves in. I just hope that the anger, hate and sadness
+they have experienced will not remain inside them, and that they will be able to rise
+above their experiences. Because if they grow up holding on to such terrible feelings,
+it could lead to another war sometime in the future when the fate of the country is in
+their hands. This is why I believe that everything the Freedom Writers have overcome
+and accomplished is very important and must be respected. If they had chosen to stay
+encapsulated2 in the anger and hate that surrounded them in their neighborhoods, the
+seeds of hatred and fear would have grown with them and history would repeat itself
+with their children in the future. The Freedom Writers chose to break this cycle and
+make their positive experiences a lesson for generations to come.
+8 And, of course, I will always very highly respect and admire the Freedom Writers’
+mentor, their friend and teacher, Erin Gruwell, who is also my friend. She never wants to
+be congratulated or held responsible for the great things that came out of Room 203 at
+Wilson High School, but she must be. She was (and still is) much more than a teacher to the
+Freedom Writers. She was a parent to those who did not have, or could not communicate
+with, their own; she was an older friend who was fun to be around; but she was also
+very loyal, someone who cared and fought for each one of her “kids.” She shared her
+education, tenacity3 and love with them and made a huge difference in her students’ lives.
+They could have remained the “underachievers” they’d been labeled before they arrived
+in her classroom. But in just several years, she made a tremendous difference and created
+a safe place for them to grow and blossom into amazing people. She made authors and,
+I dare say, historical figures out of them. Many teachers consider their after-school time
+to be precious, but Erin gave herself over to her work. She was dedicated to helping her
+students learn, opening their eyes to injustice and guiding them to the weapons (in this
+case a pen, knowledge, a measure of faith, and an unyielding determination) with which to
+fight intolerance. Finally, she taught them how to assume their rightful place in the world.
+I know her students will remember her the rest of their lives, as well they should. I wish
+that teachers everywhere were like her—because the world would be a much better place.
+I always say that the young people are the future of the world, and if we start with them
+first, if we educate and develop a sense of tolerance among them, our future, the future
+of this world, will be in good hands for generations to come.
+How many good things can come out of a bad situation? I’m a perfect example.
+9 I was a small happy Sarajevan girl whose country was struck by war. Suddenly I was
+put in the position of having some say and possible influence in the world. I did not
+want that responsibility, and I wish that my diary had never been published; if not for
+the war, there would have been no reason to share it with the world. But nonetheless,
+some good has come out of it.
+10 Anne Frank’s diary inspired the world, and good has come out of her tragedy. Her
+strength kept her going for as long as it could, and subsequently has been recognized
+by millions of people, young and old. The greatness of those who are no longer with
+us fortunately remains to lead and inspire those left behind.
+
+}}
+[[
+●1 Based on the foreword, the author’s
+character can best be described as
+A. sad and resentful.
+B. cheerful and excited.
+C. doubting and uncertain.
+D. thoughtful and optimistic.
+ID:277019 B Common
+●2 Based on paragraph 2, what is a great
+advantage that young people have?
+A. They have few responsibilities.
+B. Their future is full of possibilities.
+C. They are naturally talented writers.
+D. Their parents are still teaching them.
+ID:277023 D Common
+●3 What does paragraph 3 suggest about
+the Freedom Writers?
+A. They felt their writing should
+win awards.
+B. They created a work that was
+controversial.
+C. They had many people to help
+with their efforts.
+D. They consciously decided to take
+positive action.
+ID:277025 D Common
+●4 What is the main function of paragraph 4?
+A. It describes the people who
+influenced the Freedom Writers.
+B. It explains how Filipovic and the
+Freedom Writers are changing.
+C. It contrasts Filipovic’s beliefs with
+those of the Freedom Writers.
+D. It serves as a transition to a
+description of Filipovic’s experiences.
+ID:277027 B Common
+●5 According to the foreword, what is the
+main reason Filipovic started her own
+diary?
+A. She was intending to write
+a book.
+B. She hoped to document everyday
+events.
+C. She was forced to stay home during
+a war.
+D. She wanted to copy the work of
+other writers.
+●6 Based on paragraph 8, what is the most
+likely reason the author puts the term
+“underachievers” in quotation marks?
+A. to show that the term is
+outdated
+B. to show that the term is not
+easy to define
+C. to show that the term is being
+spoken out loud
+D. to show that the term does not
+apply to the students
+ID:277040 A Common
+●7 Based on the foreword, what does
+the author suggest when she calls the
+Freedom Writers “historical figures”?
+A. The Freedom Writers will be
+remembered for their accomplishments.
+B. The Freedom Writers have grown up
+since their book was published.
+C. The Freedom Writers based their
+work on events of long ago.
+D. The Freedom Writers helped record the
+pain of war.
+ID:277047 A Common
+●8 Read the phrase from paragraph 5 in the
+box below.
+When the Bosnian war started with
+all its horrors and disrupted my happy
+and carefree childhood, . . .
+Which of the following words could
+best be used in place of the word
+disrupted?
+A. disturbed
+B. distracted
+C. discovered
+D. discouraged
+ID:277049 A Common
+●9 Based on paragraph 8, a mentor is a
+person who
+A. guides others.
+B. collects diaries.
+C. fights injustice.
+D. overcomes difficulties.
+]]
+//7//
+\\2015\\
+{{
+0 Speech Honoring Abraham Lincoln
+0 by Carl Sandburg
+1 Not often in the story of mankind does a man arrive on earth who is both steel and velvet,
+who is as hard as rock and soft as drifting fog, who holds in his heart and mind the paradox
+of terrible storm and peace unspeakable and perfect. Here and there across centuries come
+reports of men alleged to have these contrasts. And the incomparable Abraham Lincoln,
+born 150 years ago this day, is an approach if not a perfect realization of this character.
+2 In the time of the April lilacs in the year 1865, on his death, the casket with his body
+was carried north and west a thousand miles, and the American people wept as never before.
+Bells sobbed, cities wore crepe,1 people stood in tears and with hats off as the railroad burial
+car paused in the leading cities of seven states, ending its journey at Springfield, Illinois,
+the home town.
+3 During the four years he was president, he at times, especially in the first three months,
+took to himself the powers of a dictator. He commanded the most powerful armies till then
+assembled in modern warfare. He enforced conscription2 of soldiers for the first time in
+American history. Under imperative necessity he abolished the right of habeas corpus.3 He
+directed politically and spiritually the wild, massive, turbulent forces let loose in civil war.
+4 He argued and pleaded for compensated emancipation of the slaves. The slaves were
+property, they were on the tax books along with horses and cattle, the valuation of each slave
+next to his name on the tax assessor’s books. Failing to get action on compensated emancipation,
+as a chief executive having war powers, he issued the paper by which he declared the slaves to
+be free under “military necessity.” In the end nearly $4 million worth of property was taken
+away from those who were legal owners of it, property confiscated, wiped out as by fire
+and turned to ashes, at his instigation and executive direction. Chattel property4 recognized
+and lawful for 300 years was expropriated, seized without payment.
+5 In the month the war began he told his secretary, John Hay, “My policy is to have no
+policy.” Three years later in a letter to a Kentucky friend made public, he confessed plainly,
+“I have been controlled by events.” His words at Gettysburg were sacred; yet strange with
+a color of the familiar: “We cannot consecrate—we cannot hallow—this ground. The brave
+men, living and dead, who struggled here, have consecrated it, far beyond our poor power
+to add or detract.”
+6 He could have said “the brave Union men.” Did he have a purpose in omitting the word
+Union? Was he keeping himself and his utterance clear of the passion that would not be
+good to look at when the time came for peace and reconciliation? Did he mean to leave an
+implication that there were brave Union men, and brave Confederate men, living and dead,
+who had struggled there? We do not know of a certainty. Was he thinking of the Kentucky
+father whose two sons died in battle, one in Union blue, the other in Confederate gray, the
+father inscribing on the stone over their double grave, “God knows which was right”? We
+do not know. . . .
+7 While the war winds howled, he insisted that the Mississippi was one river meant to
+belong to one country, that railroad connection from coast to coast must be pushed through
+and the Union Pacific Railroad made a reality. While the luck of war wavered and broke
+and came again, as generals failed and campaigns were lost, he held enough forces of the
+North together to raise new armies and supply them, until generals were found who made
+war as victorious war has always been made—with terror, frightfulness, destruction, and on
+both sides, North and South, valor and sacrifice past words of man to tell.
+8 In the mixed shame and blame of the immense wrongs of two crashing civilizations,
+often with nothing to say, he said nothing, slept not at all, and on occasions he was seen
+to weep in a way that made weeping appropriate, decent, majestic. . . .
+9 The people of many other countries take Lincoln now for their own. He belongs to them.
+He stands for decency, honest dealing, plain talk, and funny stories. “Look where he came
+from. Don’t he know all us strugglers, and wasn’t he a kind of tough struggler all his life
+right up to the finish?” Something like that you can hear in any nearby neighborhood and
+across the seas.
+10 Millions there are who take him as a personal treasure. He had something they would
+like to see spread everywhere over the world. Democracy? We can’t find words to say exactly
+what it is, but he had it. In his blood and bones he carried it. In the breath of his speeches
+and writings it is there. Popular government? Republican institution? Government where the
+people have the say-so, one way or another telling their elected leaders what they want? He
+had the idea. It’s there in the lights and shadows of his personality, a mystery that can be
+lived but never fully spoken in words.
+11 Our good friend the poet and playwright Mark Van Doren tells us, “To me, Lincoln
+seems, in some ways, the most interesting man who ever lived. He was gentle, but his
+gentleness was combined with a terrific toughness, an iron strength.”
+12 How did Lincoln say he would like to be remembered? His beloved friend, Representative
+Owen Lovejoy of Illinois, had died in May of 1864 and friends wrote to Lincoln and he
+replied that the pressure of duties kept him from joining them in efforts for a marble
+monument to Lovejoy, the last sentence of his letter saying, “Let him have the marble
+monument along with the well-assured and more enduring one in the hearts of those who
+love liberty, unselfishly, for all men.”
+13 So perhaps we may say that the well-assured and most enduring memorial to Lincoln
+is invisibly there, today, tomorrow, and for a long time yet to come in the hearts of lovers
+of liberty, men and women who understand that wherever there is freedom there have been
+those who fought, toiled, and sacrificed for it.
+0 Eulogy for
+0 WALT WHITMAN
+0 (1819–1892)
+0 by Robert Green Ingersoll
+1 Again we in the mystery of life are brought face-to-face with the mystery of death. A great
+man, a great American, is dead before us, and we have met to pay a tribute to his greatness and
+to his worth. His fame is secure. He laid the foundation of it deep in the human heart. He was,
+above all that I have known, the poet of humanity, of sympathy. Great he was—so great that he
+rose above the greatest that he met without arrogance; and so great that he stooped to the lowest
+without conscious condescension.1 He never claimed to be lower or greater than any other of
+the sons of man. He came into our generation a free, untrammeled spirit, with sympathy for
+all. His arm was beneath the form of the sick; he sympathized with the imprisoned and the
+despised; and even on the brow of crime he was great enough to place the kiss of human sympathy.
+One of the greatest lines in our literature is his. Speaking of an outcast—“Not until the sun
+excludes the earth will I exclude you.” A charity as wide as the sky! And whenever there was
+human suffering, human misfortune, the sympathy of Whitman bent above it as the firmament
+bends above this earth. He was the poet of that divine democracy that gives equal rights to all
+the sons and daughters of men. He uttered the great American voice, uttered a song worthy of
+the great Republic.
+2 He was the poet of life. He loved the clouds. He enjoyed the breath of morning, the twilight,
+the wind, the winding streams. He loved to look at the sea when the winds and waves burst into
+the whitecaps of joy. He loved the fields, the hills. He was acquainted with trees, with birds,
+with all the beautiful objects on the earth; and he understood their meaning and used them that
+he might exhibit his heart to his fellowmen. He was also the poet of love. He was not ashamed
+of the divine passion that has built every home in the world; that divine passion that has painted
+every picture and given us every real work of art—that divine passion that has made the world
+worth living in and gives value to human life. He was the poet of the human race everywhere.
+His sympathy went out over the seas to all the nations of the earth. And above genius, above all
+the snowcapped peaks of intelligence, above his art, rises the man—greater than all.
+3 He was true absolutely to himself. He was frank, candid, pure, serene, and noble. And for
+years he was maligned2 and slandered, simply because he had the candor of nature. He will be
+understood yet, and that for which he was condemned will add to the glory and the greatness
+of his name. He wrote a liturgy for humanity—the greatest gospel that can be preached.
+4 He was not afraid to live, not afraid to speak his thoughts. Neither was he afraid to die.
+Cheerful every moment, the laughing nymphs of day remained that they might clasp the hand
+of the veiled and silent sisters of the night when they should come. And when they did come,
+Walt Whitman stretched his hand to both. And so, hand in hand, between smiles and tears, he
+reached his journey’s end.
+5 Today we give back to Mother Nature, to her clasp and kiss, one of the bravest, sweetest
+souls that ever lived in human clay. Since he has lived, death is less fearful than it was before,
+and thousands and millions will walk down into the dark valley of the shadow, holding Walt
+Whitman by the hand, long after we are dead.
+6 And so I lay this poor wreath upon this great man’s tomb. I loved him living and I love
+him still.
+}}
+[[
+●19 Read the sentence from paragraph 6 of the
+speech in the box below.
+He could have said “the brave Union
+men.”
+In the remainder of the paragraph, what
+does the speaker speculate about Lincoln?
+A. possible reasons underlying Lincoln’s
+choice of words
+B. possible reasons for Lincoln’s worries
+about the country
+C. whether Lincoln’s speech could have
+worsened wartime discord
+D. whether Lincoln’s speech could have
+been more encouraging to soldiers
+ID:309272 C Common
+●20 In the eulogy for Whitman, what is the
+main effect of the speaker’s use of the
+pronouns “we” and “us”?
+A. It reveals his strong feelings for
+Whitman.
+B. It heightens the formal tone of the
+speech.
+C. It emphasizes his connection with his
+audience.
+D. It mimics the language Whitman used
+in his poetry.
+●21 Based on paragraph 4 of the eulogy, why
+does the speaker believe Whitman made
+death “less fearful” for others?
+A. Whitman accepted death
+as part of life.
+B. Whitman lived a long and
+healthy life.
+C. Whitman focused on death in
+his writings.
+D. Whitman publicized his belief in
+an afterlife.
+ID:309928 D Common
+●22 Read the descriptions in the box below.
+•	 Not often in the story of mankind
+does a man arrive on earth who is
+both steel and velvet, who is as
+hard as rock and soft as drifting
+fog, . . . (paragraph 1 of the speech)
+•	 Great he was—so great that he
+rose above the greatest that he
+met without arrogance; and so
+great that he stooped to the lowest
+without conscious condescension.
+(paragraph 1 of the eulogy)
+Which technique is used for effect in both
+descriptions?
+A. literary allusions
+B. familiar symbols
+C. understated claims
+D. contrasting images
+ID:309268 D Common
+●23 What do paragraph 8 of the speech and
+paragraph 4 of the eulogy suggest about
+Lincoln and Whitman?
+A. Both had moments of deep anger.
+B. Both had many human weaknesses.
+C. Both were known as extremely
+straightforward.
+D. Both were capable of experiencing
+deep emotion.
+ID:309281 C Common
+●24 Read the sentence from paragraph 9 of the
+speech in the box below.
+The people of many other countries
+take Lincoln now for their own.
+Which description from the eulogy
+suggests that Whitman’s work had a
+similar effect on people?
+A. “He came into our generation
+a free, untrammeled spirit, . . .”
+B. “He loved to look at the sea . . .”
+C. “He was the poet of the human
+race everywhere.”
+D. “He was true absolutely to himself.”
+●25 Read the descriptions in the box below.
+• He stands for decency, honest
+dealing, plain talk, and funny
+stories. (paragraph 9 of the speech)
+• He was frank, candid, pure, serene,
+and noble. (paragraph 3 of the
+eulogy)
+Based on the descriptions, “plain talk”
+and “candid” most likely refer to which
+characteristic?
+A. respect
+B. humility
+C. sensitivity
+D. truthfulness
+ID:309927 A Common
+●26 What do paragraph 13 of the speech and
+paragraph 5 of the eulogy emphasize?
+A. the lasting legacies of Lincoln
+and Whitman
+B. the difficulties of accepting the
+loss of great men
+C. the viewpoints embraced by Lincoln
+and Whitman
+D. the challenges in finding great men to
+replace those who have died
+]]
+//10//
+\\2015\\
