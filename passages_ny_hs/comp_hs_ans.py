@@ -96,13 +96,9 @@ anss={
 
 }
 
-print(anss)
-# ans=anss[1]
-# ansnl= ans.split("\n")
-# anss=[i.split(" ") for i in ansnl] 
+# print(anss)
+# returns the ans number (1,2,3,4) given question and id
 def getAns(id, qno):
-    # if(id>15):
-    #      return None
     ans=anss[id]
     ansnl=ans.split("\n")
     ans=[i.split(" ") for i in ansnl] 
